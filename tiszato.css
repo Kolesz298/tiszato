@@ -71,6 +71,7 @@ tbody{
 .madarkep{
     width: 100px;
     vertical-align: bottom;
+   /* cursor: pointer; */
 }
 
 small {
